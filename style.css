@@ -173,3 +173,37 @@
         margin: 0 0 64px 0;
     }
 }
+
+#vagas-abertas {
+    display: grid;
+    justify-content: center;
+
+
+    h3 {
+        font-size: 20px;
+    }
+
+    .quad-vagas {
+        margin-bottom: 44px;
+    }
+
+    .quad-vagas-ind {
+        width: 768px;
+        height: 136px;
+        border: solid rgb(102, 112, 133, 0.3) 1px;
+        border-radius: 10px;
+        margin-bottom: 24px;
+
+        h3 {
+            font-size: 18px;
+            padding: 24px 24px 32px;
+            margin: 0 auto;
+        }
+
+        .cinza-claro {
+            display: inline-block;
+            padding: 0 0 28px 24px;
+            margin: 0 auto;
+        }
+    }
+}
