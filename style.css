@@ -108,7 +108,7 @@
 #metricas {
     display: flex;
     justify-content: center;
-    margin: 0 80px;
+    margin: 0 80px 192px;
 
     .quad-met {
         width: 280px;
@@ -140,4 +140,36 @@
         padding-right: 0;
     }
 
+}
+
+#vagas {
+    text-align: center;
+
+    .vermelho {
+        font-size: 14px;
+        margin: 0 auto;
+        width: 125px;
+        text-align: center;
+        background-color: rgb(142, 36, 36, 0.1);
+        border-radius: 50px;
+        margin-bottom: 16px;
+    }
+
+    .parag-met {
+        font-size: 36px;
+        font-weight: 600;
+        margin: 0 0 20px 0;
+    }
+
+    .cinza-claro {
+        font-size: 20px;
+        margin: 0 0 64px 0;
+    }
+
+    img {
+        object-fit: cover;
+        width: 1216px;
+        height: 400px;
+        margin: 0 0 64px 0;
+    }
 }
