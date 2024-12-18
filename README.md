@@ -3,8 +3,8 @@
 
 <h2>🚀 Tecnologias Utilizadas:</h2>
 <ul>
-  <li><strong>HTML5:</strong> Estruturação da página.</li>
-  <li><strong>CSS3:</strong> Estilização da página.</li>
+  <li><strong>HTML:</strong> Estruturação da página.</li>
+  <li><strong>CSS:</strong> Estilização da página.</li>
 </ul>
 
 <h2>📝 Conceitos Praticados</h2>
@@ -18,4 +18,4 @@
 </ul>
 
 <h2>🖼️ Foto do projeto:</h2>
-inserir foto aqui
+<img src="https://github.com/user-attachments/assets/f32b57c4-52fc-4783-92ad-defebdbe2331">
